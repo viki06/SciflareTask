@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SciflareTask</string>
+
+    <string name="label_user_list">User List</string>
+    <string name="label_gender">Gender: %s</string>
+    <string name="label_email">Email: %s</string>
+    <string name="label_phone">Phone: %s</string>
+
+</resources>
